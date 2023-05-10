@@ -19,7 +19,7 @@ def absoluteFilePaths(directory):
             yield os.path.abspath(os.path.join(dirpath, f))
 
 if __name__ == '__main__':
-    filess = ['../task2/lsg/abstract.txt']
+    filess = ['./../../task2/lsg/abstract.txt']
     # print(filess)
     model_name = 'muss_en_wikilarge_mined'
     

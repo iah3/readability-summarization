@@ -16,10 +16,10 @@ from muss.utils.helpers import read_lines
 if __name__ == '__main__':
     model_name = 'muss_en_wikilarge_mined'
 
-    filess = ['../../task1/bart/test/plos.txt',
-              '../../task1/bart/test/elife.txt',
-              '../../task1/bart/val/elife.txt',
-              '../../task1/bart/val/plos.txt']
+    filess = ['./../../task1/bart/test/plos.txt',
+              './../../task1/bart/test/elife.txt',
+              './../../task1/bart/val/elife.txt',
+              './../../task1/bart/val/plos.txt']
 
     for file in filess:
         simplified_sentences = []

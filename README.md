@@ -4,7 +4,7 @@
 
 #### *To be updated*
 
-### MUSS Setup
+### MUSS setup and simplification
 
 Download and setup "MUSS: Multilingual Unsupervised Sentence Simplification by Mining Paraphrases".
 

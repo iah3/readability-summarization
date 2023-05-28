@@ -1,4 +1,4 @@
-# Pathology Dynamics at BioLaySumm: the trade-off between Readability, Relevance, and Factuality in Lay Summarization
+## Pathology Dynamics at BioLaySumm: the trade-off between Readability, Relevance, and Factuality in Lay Summarization
 
 > Irfan Al-Hussaini, Austin Wu, Cassie Mitchell. In BioNLP, ACL 2023.
 
